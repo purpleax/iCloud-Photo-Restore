@@ -1,0 +1,15 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project specific
+*.zip
+restored/
+Photo Details.csv
+icloudbackupPRD.txt
